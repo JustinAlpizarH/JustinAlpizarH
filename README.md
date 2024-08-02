@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I'm Justin 👋</h1>
 </div>
-<img src="https://imgur.com/a/XKC1oKa.png" alt ="Banner" />
+<img src="https://i.imgur.com/Ju12AUZ.png" alt ="Banner" />
 
 # 💫 About Me:
 👨‍🎓 I'm currently learning Software Engineer and Computer Science.<br>🤓 Always learning new things.<br>💡 Like to explore new technologies and develop software solutions.<br>🌱 I'm on track for learning more about different programming languajes and Cloud Architecture.
